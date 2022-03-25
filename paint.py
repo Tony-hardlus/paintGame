@@ -91,7 +91,7 @@ onkey(lambda: color('purple'),'P') #color morado agregado.
 onkey(lambda: color('pink'),'Q') #color rosa agregado (tecla Q). 
 onkey(lambda: store('shape', line), 'l')
 onkey(lambda: store('shape', square), 's')
-onkey(lambda: store('shape', circle), 'c')
+onkey(lambda: store('shape', circulo), 'c')
 onkey(lambda: store('shape', rectangle), 'r')
 onkey(lambda: store('shape', triangle), 't')
 done()
